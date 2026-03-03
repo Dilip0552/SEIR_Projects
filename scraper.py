@@ -43,3 +43,4 @@ if len(sys.argv) != 2:
 else:
     page_url = sys.argv[1]
     fetchDetails(page_url)
+
